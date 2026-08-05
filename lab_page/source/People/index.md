@@ -15,41 +15,49 @@ Prof. Zang completed his PhD in cardiac modeling at Zhejiang University. After a
 
 ### Students
 
-Zhuobin Yang
+Zhuobin Yang (杨卓斌) 
 Graduate student
 2024 Fall
 
-Liao Yu
+Liao Yu (余廖)
 Graduate student
 2024 spring (visiting student from Beihang University)
 
-Heming Zou
+Heming Zou (邹鹤鸣)
 Graduate student
 2024 spring (visiting student from Tsinghua University)
 
-Yanheng Li
+Yanheng Li (李岩恒)
 Graduate student
 2024 spring (visiting student from BUPT)
 
-Yeyao Bao
+Yeyao Bao (鲍晔尧)
 Master student
 2024 Fall (co-supervised with Liangfu Lv)
 
-Haiyang Li
+Haiyang Li (历海洋)
 Master student
 2024 Fall
 
-Yiming Chen
+Shitang Fan (樊世堂)
 Master student
 2024 Fall
 
-Shitang Fan
-Master student
-2024 Fall
+Yaoduo Zhang (张耀铎)
+Graduate student
+2025 Fall
+
+Sibo Zhang (张思博)
+Graduate student
+2025 Fall
+
+Xufeng Bai (白栩锋)
+Graduate student
+2025 Fall
 
 ### Postdocs
 
-Yaqin Fan
+Yaqin Fan (樊亚琴)
 2024 Spring
 
 ### Collaborators
