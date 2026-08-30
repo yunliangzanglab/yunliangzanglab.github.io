@@ -1,7 +1,7 @@
 @import 'user'
 @import '_highlight/highlight.styl'
 
-$font-family = "Times New Roman", FangSong, STFangsong, sans-serif;
+$font-family = "Times New Roman", SimSun, "Songti SC", serif;
 $theme-blue = #1353d7;
 $theme-dark-blue = #096494;
 $theme-red = #c62641;
@@ -228,6 +228,10 @@ blockquote
     font-size 2.8rem
   h3
     font-size 2.6rem
+  h4
+    font-size 2rem
+  h5
+    font-size 1.8rem
   p,
   li
     font-size 1.8rem
@@ -312,6 +316,11 @@ blockquote
   h3
     margin: 0px;
     font-size 1.8rem
+    white-space nowrap
+    letter-spacing -0.02em
+    .author-name-cn
+      font-size 0.7rem
+      letter-spacing 0
   .author-bio
     font-size: 1.2rem;
     margin: .3rem 0;

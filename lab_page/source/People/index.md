@@ -7,7 +7,7 @@ date: 2024-08-17 23:22:05
 
 Yunliang Zang
 
-Professor Yunliang Zang is based in the Academy of Medical Engineering and Translational Medicine at Tianjin University, where he heads the Computational Neuroscience & NeuroAI Laboratory.
+Professor Yunliang Zang (臧蕴亮) is based in the Academy of Medical Engineering and Translational Medicine at Tianjin University, where he heads the Computational Neuroscience & NeuroAI Laboratory.
 
 His research interests lie in the fields of computational neuroscience, neuroAI, and systems biology.
 
@@ -25,21 +25,25 @@ Graduate student
 
 Heming Zou (邹鹤鸣)
 Graduate student
-2024 spring (visiting student from Tsinghua University)
+2025 spring (visiting student from Tsinghua University)
 
 Yanheng Li (李岩恒)
 Graduate student
 2024 spring (visiting student from BUPT)
 
 Yeyao Bao (鲍晔尧)
-Master student
-2024 Fall (co-supervised with Liangfu Lv)
+Graduate student
+2026 Fall (co-supervised with Liangfu Lv)
 
-Haiyang Li (历海洋)
+Haiyang Li (厉海洋)
 Master student
 2024 Fall
 
 Shitang Fan (樊世堂)
+Master student
+2024 Fall
+
+Rui Jing (景锐)
 Master student
 2024 Fall
 
@@ -55,10 +59,9 @@ Xufeng Bai (白栩锋)
 Graduate student
 2025 Fall
 
-### Postdocs
-
-Yaqin Fan (樊亚琴)
-2024 Spring
+Chichi Wang (王迟迟)
+Master student
+2026 Fall
 
 ### Collaborators
 
