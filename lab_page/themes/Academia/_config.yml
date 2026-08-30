@@ -62,10 +62,10 @@ box_shadow:
 # 自定义css可以直接写在user.styl中
 CDN_USE:
   css:
-    - /css/index.css?v=20260830
+    - /css/index.css?v=20260830-2
 #    - https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
     - https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css # fontawesome 5
   js:
     - https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js #/js/third-party/jquery.min.js
     - https://cdn.jsdelivr.net/npm/jquery-pjax@latest/jquery.pjax.min.js
-    - /js/main.js
+    - /js/main.js?v=20260830-2
