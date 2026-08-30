@@ -62,7 +62,7 @@ box_shadow:
 # 自定义css可以直接写在user.styl中
 CDN_USE:
   css:
-    - /css/index.css
+    - /css/index.css?v=20260830
 #    - https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
     - https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css # fontawesome 5
   js:
