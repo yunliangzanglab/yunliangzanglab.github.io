@@ -7,7 +7,7 @@ date: 2024-08-17 23:22:05
 
 Yunliang Zang
 
-Professor Yunliang Zang (臧蕴亮) is based in the Academy of Medical Engineering and Translational Medicine at Tianjin University, where he heads the Computational Neuroscience & NeuroAI Laboratory.
+Professor Yunliang Zang is based in the Academy of Medical Engineering and Translational Medicine at Tianjin University, where he heads the Computational Neuroscience & NeuroAI Laboratory.
 
 His research interests lie in the fields of computational neuroscience, neuroAI, and systems biology.
 
